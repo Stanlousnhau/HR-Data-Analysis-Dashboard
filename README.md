@@ -18,4 +18,4 @@ Power BI Desktop: For report development.
 📂# Repository Structure
 ./[Your-Report-Name].pbix: The main Power BI report file.
 
-./Images/: (Optional) Screenshots or custom images used in the report or this README.
+./Images/: View dashboard[https://github.com/Stanlousnhau/HR-Data-Analysis-Dashboard/blob/main/HR%20Ana.png]
