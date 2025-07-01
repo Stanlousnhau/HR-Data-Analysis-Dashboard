@@ -12,7 +12,7 @@
 
 
 
-# Repository Structure
+# Final Product 
 
 📂
 [View report file](https://github.com/Stanlousnhau/HR-Data-Analysis-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD.pbit)
