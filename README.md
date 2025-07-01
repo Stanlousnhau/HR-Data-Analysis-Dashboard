@@ -17,4 +17,4 @@
 📂
 [View report file](https://github.com/Stanlousnhau/HR-Data-Analysis-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD.pbit)
 
-[View dashboard](https://github.com/Stanlousnhau/HR-Data-Analysis-Dashboard/blob/main/HR%20Ana.png)
+📂 [View dashboard](https://github.com/Stanlousnhau/HR-Data-Analysis-Dashboard/blob/main/HR%20Ana.png)
